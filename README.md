@@ -39,4 +39,13 @@
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=notion" height="30" alt="notion"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=npm" height="30" alt="npm"  />
+  <img width="12" />
 </div>
