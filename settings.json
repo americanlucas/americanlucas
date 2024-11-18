@@ -1,0 +1,15 @@
+{
+    "files.autoSave": "afterDelay",
+    "explorer.confirmDelete": false,
+    "workbench.colorTheme": "Min Dark",
+    "symbols.hidesExplorerArrows": false,
+    "workbench.iconTheme": "symbols",
+    "workbench.activityBar.location": "hidden",
+    "workbench.statusBar.visible": false,
+    "editor.lineHeight": 1.8,
+    "editor.renderLineHighlight": "gutter",
+    "breadcrumbs.enabled": false,
+    "editor.semanticHighlighting.enabled": false,
+    "explorer.compactFolders": false,
+    "window.zoomLevel": 0.3
+}
