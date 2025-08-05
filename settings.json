@@ -17,6 +17,6 @@
     "_comments": "https://github.com/tonsky/FiraCode/wiki/Installing",
     "editor.fontLigatures": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "prettier.tabWidth": 4,
+    "prettier.tabWidth": 2,
     "editor.fontSize": 14
 }
