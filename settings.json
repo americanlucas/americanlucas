@@ -1,6 +1,6 @@
 {
     "workbench.activityBar.location": "hidden",
-    "workbench.iconTheme": "material-icon-theme",
+    "workbench.iconTheme": "symbols",
     "editor.minimap.enabled": false,
     "files.autoSave": "afterDelay",
     "explorer.confirmDelete": false,
@@ -12,6 +12,11 @@
     "editor.semanticHighlighting.enabled": false,
     "explorer.compactFolders": false,
     "window.zoomLevel": 0.3,
-    "editor.fontFamily": "Cascadia Code",
+    "editor.fontWeight": "500",
+    "editor.fontFamily": "'Fira Code'", 
+    // https://github.com/tonsky/FiraCode/wiki/Installing
+    "editor.fontLigatures": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.tabWidth": 4,
     "editor.fontSize": 14
 }
