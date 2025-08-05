@@ -14,7 +14,7 @@
     "window.zoomLevel": 0.3,
     "editor.fontWeight": "500",
     "editor.fontFamily": "'Fira Code'", 
-    // https://github.com/tonsky/FiraCode/wiki/Installing
+    "_comments": "https://github.com/tonsky/FiraCode/wiki/Installing",
     "editor.fontLigatures": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "prettier.tabWidth": 4,
